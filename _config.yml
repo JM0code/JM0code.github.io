@@ -19,7 +19,7 @@ defaults:
     comments: 
     share: true
     related: true
-locale: en
+locale: ru-RU
 title_separator: "-"
 name: Your Name
 description: An amazing website.
